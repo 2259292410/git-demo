@@ -10,8 +10,5 @@ hello Git
 hello Git
 hello Git
 hello Git
-<<<<<<< HEAD
 hello Git master test
-=======
 hello Git hot-fix test
->>>>>>> hot-fix
